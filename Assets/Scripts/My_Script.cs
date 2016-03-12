@@ -7,7 +7,7 @@ public class My_Script : MonoBehaviour
     public float imABitch;
     void Start ()
     {
-
+        //lol
 	}
 
 	void Update ()
