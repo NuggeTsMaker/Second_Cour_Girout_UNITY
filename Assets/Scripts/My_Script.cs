@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-<<<<<<< HEAD
+/*<<<<<<< HEAD
 public class My_Script : MonoBehaviour
 {
     [Range(0.0f,100.0f)]
@@ -28,3 +28,4 @@ public class My_Script : MonoBehaviour {
 >>>>>>> origin/master
 	}
 }
+*/
